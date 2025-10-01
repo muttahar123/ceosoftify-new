@@ -1,0 +1,69 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg 
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg1492"
+   inkscape:version="1.0.1 (1.0.1+r74)"
+   sodipodi:docname="megaphone.svg"
+   inkscape:export-filename="E:\Projetos\Nuinalp\nfw\nv-icons\templates.png"
+   inkscape:export-xdpi="3274.8701"
+   inkscape:export-ydpi="3274.8701">
+  <defs
+     id="defs1486" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.9166665"
+     inkscape:cx="4.1028578"
+     inkscape:cy="2.0940234"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1863"
+     inkscape:window-height="1056"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata1489">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="opacity:1">
+    <path
+       id="rect881"
+       style="fill:#000000"
+       d="m 21.896484,5.0566406 -0.875,1.7832032 c 1.606692,0.78762 2.911492,2.1908405 3.539063,4.0253902 0.62757,1.83455 0.455603,3.744873 -0.332031,5.351563 l 1.783203,0.873047 C 27.026493,15.019794 27.255618,12.56465 26.453125,10.21875 25.65063,7.8728599 23.966527,6.0714206 21.896484,5.0566406 Z M 16.833984,5.9257812 3.2734375,15.6875 c -0.2145341,1.245805 0.048882,2.39094 0.6386719,3.466797 l 3.4394531,-0.02734 1.484375,5.433594 4.0820315,0.0059 -1.414063,-5.439453 9.28125,-0.414062 C 20.21855,15.356069 19.152501,12.26109 16.833984,5.9257812 Z M 20.576172,7.75 19.699219,9.5351562 c 0.917304,0.4496801 1.664005,1.2500708 2.023437,2.3007818 0.359434,1.05071 0.260258,2.141303 -0.189453,3.058593 l 1.785156,0.875 c 0.676826,-1.38065 0.829275,-3.018018 0.294922,-4.580078 C 23.078924,9.627393 21.956828,8.42683 20.576172,7.75 Z" />
+  </g>
+</svg>
