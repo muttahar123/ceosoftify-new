@@ -620,9 +620,10 @@ model-viewer {
   position: relative;
   z-index: 1;
   padding: 260px 50px;
-  background-image: url("assets/img/hero/pkg-bg.svg");
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   background-position: top center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media (max-width: 767px) {
@@ -1207,5 +1208,52 @@ body {
 @media screen and (min-width: 769px) and (max-width: 1080px) {
   :root {
     --baseSize: 14px;
+  }
+}
+/* About Page Header Slider Styles */
+.header_slider {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 150px 0 100px;
+  min-height: 600px;
+  position: relative;
+}
+
+.header_slider .slider_content {
+  padding: 50px 0;
+}
+
+.header_slider .slider_title {
+  font-size: 48px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+
+.header_slider .slider_content p {
+  font-size: 18px;
+  color: #fff;
+  opacity: 0.9;
+  margin-bottom: 30px;
+  line-height: 1.8;
+}
+
+.header_slider .slider_img img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 767px) {
+  .header_slider {
+    padding: 100px 0 50px;
+    min-height: 400px;
+  }
+  
+  .header_slider .slider_title {
+    font-size: 32px;
+  }
+  
+  .header_slider .slider_content p {
+    font-size: 16px;
   }
 }
